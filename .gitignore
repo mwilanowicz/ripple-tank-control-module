@@ -1,0 +1,8 @@
+# Arduino
+build/
+libraries/
+# CAD/System
+*.lock
+.DS_Store
+Thumbs.db
+~
